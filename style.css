@@ -621,17 +621,11 @@ footer{
     color: white;
 }
 
-#footercolorhome {
+.footercolor{
     background-color: rgb(17, 34, 66);
 }
 
-.cssvalid{
-    border:0; 
-    width:88px;
-    height:31px
-}
-
-.htmlvalid{
+.valid{
     border:0; 
     width:88px;
     height:31px
